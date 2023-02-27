@@ -20,8 +20,8 @@ We're looking for a full-stack developer to join the npm CLI team. This team is 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
 | Assignment Deadline  | 26 March 2023  |
-| Octernship Duration  | 3 Months  |
-| Monthly Stipend  | $700 USD  |
+| Octernship Duration  | 2 Months  |
+| Monthly Stipend  | $500 USD  |
 
 ### Recommended qualifications
 <!--- Use this section to describe what skills a student might need to complete the problem statement on GitHub Classroom --->
