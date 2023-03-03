@@ -15,7 +15,7 @@ Our protocol is open-sourced and we work closely with our community of developer
 
 ### Octernship role description
 <!--- Use this section to describe the role in as much detail as necessary. Please include the GitHub Classroom assignment submission date, length of the Octernship, and the monthly stipend --->
-(role description)
+We're looking for a full-stack developer to build sample apps on top of our protocol. You will be responsible for showcasing sticky applications that can be built using Gum's suite of tools on Solana.
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
