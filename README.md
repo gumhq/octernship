@@ -1,21 +1,21 @@
 # Octernship
 
 # Octernship Information
-<img src="https://user-images.githubusercontent.com/53075480/213182217-c8ef7bd5-9ffe-4201-9763-c157206a5910.png" width="100">
+<img src="https://gum.fun/_next/static/media/gum.7b85652b.svg" width="100">
 
 ### Company information 
 <!--- Use this section to share information about your company such as founding information, mission statement, product description, product success, etc.--->
-GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world.
+Gum, at its core, is a decentralized social media protocol on Solana. We unbundle traditional social media into Social Legos similar to how Defi unbundled traditional finance into Money Legos. Application developers can compose with Gum to build these features for any consumer apps like they are chewing gum.
 
 ### Why participate in an Octernship with GitHub
 <!--- Use this section to appeal to students. Consider sharing information about recent projects, the technology stack, the type of mentorship students can expect, listing future employment opportunities, etc. --->
-GitHub is changing the way the world builds software, and we want you to help build GitHub!
-Our team actively contributes back to the wider open source community, including the Node.js Project, OpenJS Foundation, Open Source Security Foundation & TC39.
-In this role, you will have the opportunity to work as a full-stack engineer with a distributed, diverse & passionate team delivering features & improvements to our open source projects. You’ll get to work closely with external community contributors as well as internal stakeholders from engineering, design, security, support, product & leadership. Your work will have a direct impact on the lives of millions of developers around the world.
+Gum is bringing about a paradigm shift in how people build and use crypto apps.
+
+Our protocol is open-sourced and we work closely with our community of developers who're building the next generation of consumer apps on crypto that will go mainstream as more people enter the space. In this role, you will have the opportunity to work closely with our team and build these apps yourself and show the world what's possible on Gum. You'll get to work closely with our team of developers as well as gain expertise on product, design, management and making open-sourced contributions. If the idea of fundamentally changing how people interact online forever excites you, Gum is the place you want to be working at.
 
 ### Octernship role description
 <!--- Use this section to describe the role in as much detail as necessary. Please include the GitHub Classroom assignment submission date, length of the Octernship, and the monthly stipend --->
-We're looking for a full-stack developer to join the npm CLI team. This team is responsible for the open source tools that empower the JavaScript ecosystem to create, distribute & consume packages.
+(role description)
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
