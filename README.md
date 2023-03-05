@@ -36,43 +36,31 @@ To participate, you must be:
 * Active contributor on GitHub (monthly)
 
 # Assignment
-## Recursive rm in npm CLI
+## Create a Twitter Clone App using Gum
 
-### Task instructions
+### Project Requirements
 <!--- Use this section to describe the task that students are required to complete. We ask that you also include instructions on running and preparing the students' local environment if necessary. --->
-Use recursive rm in cli command and add test case. Currently npm ci fails with ERR_FS_EISDIR for node_modules/.bin
+The Twitter clone app should have the following features:
 
-#### Steps To Reproduce
-- Fork this repository
-- Install npm
+- User registration and login using [solana wallet adapter](https://github.com/solana-labs/wallet-adapter).
+- Users can create a profile with their name, bio, profile picture, and cover image.
+- Users can post tweets, reply to tweets, like tweets.
+- Users can follow and unfollow other users.
+- Users can view their timeline, and their own tweets.
+- The app should use Gum to store user profiles, tweets, and social connections.
+- The app should be deployed to a hosting platform like Vercel or Railway.
 
-Use this package.json for testing
-
-```
-{
-  "name": "npm-test",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "eslint": "^8.31.0"
-  }
-}
-```
-
-
+Good to have features:
+- Users can search for other users and tweets using keywords and hashtags.
+- Users can receive notifications for new followers, likes, retweets, and mentions.
+- Use [gum-ui-components](https://github.com/gumhq/gum-ui-components) in the app. 
 
 ### Task Expectations
 <!--- Please add expectations that students need to follow to be considered. Some examples include: completing the task on their own, not using code from external resources without comprehending the logic, etc.  --->
-- The cli should delete node_modules without crashing
-- The task should be completed on your own
-- Using code from external sources must reference it's logic and source 
-
+- The project should be completed on your own.
+- Using code from external sources must reference its logic and source.
+- The app should be well-designed and easy to use, with a clean and intuitive interface.
+- The app should be tested thoroughly to ensure all features are working as expected.
 
 ### Task submission
 
@@ -84,6 +72,5 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 
 ### Resources
 <!--- Use this section to add resources for students to refer to. For example: Documentation, Tutorials, Guides, and more.  --->
-- Install [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-- npm [documentation](https://docs.npmjs.com/)
-- Sample [Issue](https://github.com/npm/cli/issues/6051)
+- About Gum: [docs.gum.fun](https://docs.gum.fun/)
+- [Quickstart](https://docs.gum.fun/protocol-overview/quickstart)
