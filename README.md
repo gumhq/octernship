@@ -55,19 +55,19 @@ Good to have features:
 - Users can receive notifications for new followers, likes, retweets, and mentions.
 - Use [gum-ui-components](https://github.com/gumhq/gum-ui-components) in the app. 
 
-### Task Expectations
+### Project Expectations
 <!--- Please add expectations that students need to follow to be considered. Some examples include: completing the task on their own, not using code from external resources without comprehending the logic, etc.  --->
 - The project should be completed on your own.
 - Using code from external sources must reference its logic and source.
 - The app should be well-designed and easy to use, with a clean and intuitive interface.
 - The app should be tested thoroughly to ensure all features are working as expected.
 
-### Task submission
+### Project submission
 
-Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their task. This includes
+Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their project. This includes
 
 1. Creating a new branch
-2. Making changes on the new branch to complete the task
+2. Making changes on the new branch to complete the project
 3. Opening a Pull Request for review
 
 ### Resources
