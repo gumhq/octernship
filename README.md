@@ -72,6 +72,6 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 
 ### Resources
 <!--- Use this section to add resources for students to refer to. For example: Documentation, Tutorials, Guides, and more.  --->
-- About Gum: [docs.gum.fun](https://docs.gum.fun/)
+- [Gum's Documentation](https://docs.gum.fun/)
 - [Quickstart](https://docs.gum.fun/protocol-overview/quickstart)
 - [Gum Typescript SDK](https://github.com/gumhq/sdk)
