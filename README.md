@@ -53,7 +53,7 @@ The Twitter clone app should have the following features:
 Good to have features:
 - Users can search for other users and tweets using keywords and hashtags.
 - Users can receive notifications for new followers, likes, retweets, and mentions.
-- Use [gum-ui-components](https://github.com/gumhq/gum-ui-components) in the app. 
+- Use [Gum's UI components](https://github.com/gumhq/gum-ui-components) in the app. 
 
 ### Project Expectations
 <!--- Please add expectations that students need to follow to be considered. Some examples include: completing the task on their own, not using code from external resources without comprehending the logic, etc.  --->
