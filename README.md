@@ -19,7 +19,7 @@ We're looking for a full-stack developer to build sample apps on top of our prot
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 26 March 2023  |
+| Assignment Deadline  | 2 April 2023  |
 | Octernship Duration  | 2 Months  |
 | Monthly Stipend  | $500 USD  |
 
