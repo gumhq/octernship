@@ -19,7 +19,7 @@ We're looking for a full-stack developer to build sample apps on top of our prot
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
-| Assignment Deadline  | 26 March 2023  |
+| Assignment Deadline  | 2 April 2023  |
 | Octernship Duration  | 2 Months  |
 | Monthly Stipend  | $500 USD  |
 
@@ -66,10 +66,9 @@ Good to have features:
 
 Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their project. This includes
 
-1. Making changes on the auto generated `feedback` branch to complete the task
-2. Using the auto generated **Feedback Pull Request** for review and submission
-3. Using GitHub Discussions to ask any relevant questions regarding the project
-
+1. Creating a new branch
+2. Making changes on the new branch to complete the project
+3. Opening a Pull Request for review
 
 ### Resources
 <!--- Use this section to add resources for students to refer to. For example: Documentation, Tutorials, Guides, and more.  --->
